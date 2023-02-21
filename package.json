@@ -11,6 +11,9 @@
       ]
     }
   },
+  "os": [
+    "darwin"
+  ],
   "gypfile": true,
   "repository": {
     "type": "git",
